@@ -14,6 +14,7 @@ group :development, :test do
   gem 'capybara'
   gem 'launchy'
   gem 'rspec-rails'
+  gem 'ZenTest'
   gem 'simplecov'
 end
 group :test do
